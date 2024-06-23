@@ -1,0 +1,1 @@
+# aspect-log-customer-manager
